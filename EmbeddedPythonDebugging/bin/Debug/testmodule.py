@@ -3,7 +3,8 @@
 # In that case its Python calling C#, calling Python.
 # When debugging from an embedded implementation, in my experience it does not break.
 # in that case it C# calling into Python.
-
+import time
 while True:
-    print "Hello world.."
-    print raw_input("click")
+    print "Hello world.." # set a break point here
+    #print raw_input("press any key")
+    time.sleep(1.0)
