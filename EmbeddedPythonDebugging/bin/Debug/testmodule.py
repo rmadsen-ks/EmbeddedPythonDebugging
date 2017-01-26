@@ -6,5 +6,5 @@
 import time
 while True:
     print "Hello world.." # set a break point here
-    #print raw_input("press any key")
-    time.sleep(1.0)
+    print raw_input("press any key")
+    

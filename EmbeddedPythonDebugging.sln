@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedPythonDebugging", "EmbeddedPythonDebugging\EmbeddedPythonDebugging.csproj", "{9169FBA7-C409-4EE7-82D9-C534FB99A698}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Debug", "EmbeddedPythonDebugging\bin\Debug\Debug.pyproj", "{7C28A3DF-33F6-456D-B15B-F0731709E051}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Debug", "EmbeddedPythonDebugging\bin\Debug\Debug.pyproj", "{A0A04152-7163-4549-8E13-D1E1164B0551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{9169FBA7-C409-4EE7-82D9-C534FB99A698}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9169FBA7-C409-4EE7-82D9-C534FB99A698}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9169FBA7-C409-4EE7-82D9-C534FB99A698}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C28A3DF-33F6-456D-B15B-F0731709E051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C28A3DF-33F6-456D-B15B-F0731709E051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A04152-7163-4549-8E13-D1E1164B0551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A04152-7163-4549-8E13-D1E1164B0551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
